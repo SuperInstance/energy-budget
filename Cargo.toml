@@ -2,5 +2,7 @@
 name = "energy-budget"
 version = "0.1.0"
 edition = "2024"
+description = "Energy budget calculation and tracking utilities"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
