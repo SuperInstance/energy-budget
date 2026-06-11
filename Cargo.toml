@@ -1,7 +1,8 @@
 [package]
 name = "energy-budget"
 version = "0.1.0"
-edition = "2024"
+repository = "https://github.com/casey-digennaro/energy-budget"
+edition = "2021"
 description = "Energy budget calculation and tracking utilities"
 license = "MIT OR Apache-2.0"
 
