@@ -1,9 +1,11 @@
 [package]
 name = "energy-budget"
 version = "0.1.0"
-repository = "https://github.com/casey-digennaro/energy-budget"
+repository = "https://github.com/SuperInstance/energy-budget"
 edition = "2021"
 description = "Energy budget calculation and tracking utilities"
 license = "MIT OR Apache-2.0"
+
+keywords = ["energy-budget"]
 
 [dependencies]
